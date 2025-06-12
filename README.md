@@ -2,7 +2,7 @@
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI com foco em **análise financeira estratégica**, utilizando uma base fictícia do ano de 2024 para simular uma leitura clara e orientada de indicadores-chave de desempenho (KPIs). O objetivo é destacar boas práticas em visualização de dados financeiros e raciocínio analítico.
 
-![Capa do Projeto]![image](https://github.com/user-attachments/assets/20efc378-32ea-4391-88c2-1aba6edcb15c)
+![Capa do Projeto] [image](https://github.com/user-attachments/assets/20efc378-32ea-4391-88c2-1aba6edcb15c)
 
 
 ## ✨ Objetivo
